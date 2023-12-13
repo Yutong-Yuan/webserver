@@ -1,0 +1,9 @@
+all is ok
+join    client IP:10.130.0.58:60819   cfd:6
+req     client IP:10.130.0.58:60819   main.cpp
+req     client IP:10.130.0.58:60819   main.cpp
+req     client IP:10.130.0.58:60819   test_log
+exit1   client IP:10.130.0.58:60819
+join    client IP:10.130.0.93:1107   cfd:6
+req     client IP:10.130.0.93:1107   test_log
+req     client IP:10.130.0.93:1107   favicon.ico
